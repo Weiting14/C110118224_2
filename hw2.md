@@ -21,7 +21,8 @@ gantt
 
 ## PERT/CPM圖
 
-
+![](image.png)
 
 
 ## 關鍵路線
+1->2->4->5
